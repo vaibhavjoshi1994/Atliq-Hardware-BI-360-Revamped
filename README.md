@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI for the first time to surpass competitors in the market and make data-driven decisions. This project aims to answer stakeholders' questions across finance, sales, marketing, and supply chain.
+AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI for the first time to surpass competitors in the market and make data-driven decisions. This project aims to answer stakeholders' questions across finance, sales, marketing, and supply chain. 
+# This is the redesigned dashboard of the previous report I created, with more interactive and colorful visuals.
 
 I worked on this project by following the Codebasics Power BI course. The link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
@@ -62,7 +63,7 @@ AltiQ Hardware has grown vastly in recent years and opened businesses all over t
 - Direct
 - Distributors
 
-Recently, the company has faced an unforeseen loss by opening stores in Latin America based on surveys, intuition and some Excel analysis and the company’s competitors also have a handful of analytics teams to perform analysis and make data-driven decisions. So, AltiQ has no other option but to build its analytics team for data-driven insights and decisions in the future to survive better in the industry. 
+Recently, the company has faced an unforeseen loss by opening stores in Latin America based on surveys, intuition, and some Excel analysis, and the company’s competitors also have a handful of analytics teams to perform analysis and make data-driven decisions. So, AltiQ has no other option but to build its analytics team for data-driven insights and decisions in the future to survive better in the industry. 
 
 Project kick-off session, where you should get clear on what this project is and why, and any other questions you have regarding the project.
 
@@ -70,7 +71,7 @@ Project kick-off session, where you should get clear on what this project is and
 
 - What is the objective of building this Power BI dashboard?
 - In what terms will the success of this project be measured?
-- What will be the deadline of the project?
+- What will be the deadline for the project?
 - Are the stakeholders expecting a preview before the actual release?
 - What are all the hopes stakeholders have out of this project?
 - What are all the fears the stakeholders have in terms of building this dashboard?
@@ -151,7 +152,7 @@ Fact table: It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered the foundation of the report. All the visuals will be built upon the data model.
 - Poor data modeling affects the overall performance of the report.
-- Following Good practices of data modeling is a must.
+- Following Good practices in data modeling is a must.
 - In this project, we have followed the Snowflake data modeling method.
 
 <img src="https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Data%20Model.png" class="center">
@@ -201,7 +202,7 @@ In the Home view, all the view buttons will be available. The user will land on 
 ![Executive.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Executive%20View.png)
 
 
-you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZmI4NDY1NzctZjIzZC00ZjYzLTkwOGYtZjRhOTQxNTI1NWU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+You can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZmI4NDY1NzctZjIzZC00ZjYzLTkwOGYtZjRhOTQxNTI1NWU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Key Insights
@@ -212,4 +213,4 @@ you can find the full report file here : [Report](https://app.powerbi.com/view?r
 
 ## Business Impact
 - The company is focusing on its growth and spending a lot on ads and marketing, increasing its operational expenses and thus currently making losses.
-- The focus is on increasing market share against competitors like Dell, Lenovo etc.
+- The focus is on increasing market share against competitors like Dell, Lenovo, etc.
