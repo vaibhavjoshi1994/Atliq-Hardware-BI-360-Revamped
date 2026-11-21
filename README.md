@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like finance, sales, marketing, and supply chain.
+AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI for the first time to surpass competitors in the market and make data-driven decisions. This project aims to answer stakeholders' questions across finance, sales, marketing, and supply chain.
 
 I worked on this project by following the Codebasics Power BI course. The link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
-[Live Report Link]()
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZmI4NDY1NzctZjIzZC00ZjYzLTkwOGYtZjRhOTQxNTI1NWU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -33,8 +33,8 @@ I worked on this project by following the Codebasics Power BI course. The link t
 - Data validation techniques
 - Power BI services
 - Publishing reports to Power BI services
-- Setting up a personal gateway to set up the auto refresh of data
-- Collaboration, workspace, access permissions in Power BI services
+- Setting up a personal gateway to set up the auto-refresh of data
+- Collaboration, workspace, and access permissions in Power BI services
 - And more 😅
 
 ## Business-related terms
@@ -133,7 +133,7 @@ Fact table: It will have the data about the transactions
         - This table is more or less the same as the fact_forecast_monthly table, but the last column has the value of sold quantity instead of forecast value.
 - gdb056
     - freight_cost
-        - This table has details of travel cost and other costs for each market with fiscal year
+        - This table has details of travel costs and other costs for each market with fiscal year
     - gross_price
         - Has the details of gross prices with product code
     - manufacturing_cost
@@ -154,7 +154,7 @@ Fact table: It will have the data about the transactions
 - Following Good practices of data modeling is a must.
 - In this project, we have followed the Snowflake data modeling method.
 
-<img src="https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Data%20Model.png" class="center">
+<img src="https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Data%20Model.png" class="center">
 
 ### Dashboard designing
 
@@ -174,41 +174,41 @@ In the Home view, all the view buttons will be available. The user will land on 
 
 ## Home page
 
-![Home page.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Home%20page.png)
+![Home page.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Home%20page.png)
 
 ## Support Page
 
-![Support.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Support.png)
+![Support.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Support%20view.png)
 
 ## Finance View
 
-![Finance.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Finance%20View.png)
+![Finance.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Finance%20View.png)
 
 ## Sales View
 
-![Sales.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Sales%20View.png)
+![Sales.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Sales%20View.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Marketing%20View.png)
+![Marketing.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Marketing%20View.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Supply%20Chain%20View.png)
+![Supply chain.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Supply%20Chain%20view.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-Business-Insights-360/blob/main/Screenshots/Executive%20View.png)
+![Executive.gif](https://github.com/vaibhavjoshi1994/Atliq-Hardware-BI-360-Revamped/blob/main/Screenshots/Executive%20View.png)
 
 
-you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYThkNDE3MWUtY2UyOC00YjBjLWFmNGQtZGUyNjMzYzU3YTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZmI4NDY1NzctZjIzZC00ZjYzLTkwOGYtZjRhOTQxNTI1NWU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Key Insights
  
 - The company’s gross sales growth YoY is close to 200% (with Last Year as BM), but it is currently loss-making.
 - India is the company’s biggest market, while Notebook (Laptops) and Accessories contribute more than 50% of its sales across regions. LATAM is the least contributing region in sales and needs to be worked on.
-- The company’s market share has seen improvement over the last 4 years. Grew from 0.2% in 2019 to 1% in 2021 and forecasted at 5.87% in 2022.
+- The company’s market share has seen improvement over the last 4 years. Grew from 0.2% in 2019 to 1% in 2021 and is forecasted at 5.87% in 2022.
 
 ## Business Impact
 - The company is focusing on its growth and spending a lot on ads and marketing, increasing its operational expenses and thus currently making losses.
